@@ -1,2 +1,2 @@
-# The Hub of Codes, Simple & Plain
+# Coding Projects
 Sharing some of my projects now, will update monthly
