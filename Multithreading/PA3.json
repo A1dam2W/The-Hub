@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "Tesla Inc",
+      "ticker": "TSLA",
+      "startDate": "2010-06-29",
+      "stockBrokers": 1,
+      "description": "Tesla Motors, Inc. (Tesla) designs, develops, manufactures and sells electric vehicles and advanced electric vehicle powertrain components.",
+      "exchangeCode": "NASDAQ"
+    },
+    {
+      "name": "Apple Inc",
+      "ticker": "AAPL",
+      "startDate": "1980-12-12",
+      "stockBrokers": 1,
+      "description": "Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications.",
+      "exchangeCode": "NASDAQ"
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "startDate": "1986-03-13",
+      "stockBrokers": 2,
+      "description": "Microsoft (Nasdaq “MSFT” @microsoft) enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.",
+      "exchangeCode": "NASDAQ"
+    },
+    {
+      "name": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "startDate": "1972-12-29",
+      "stockBrokers": 2,
+      "description": "Advanced Micro Devices, Inc. engages in the provision of semiconductor businesses. It operates through the following segments: Computing and Graphics, and Enterprise, Embedded and Semi-Custom.",
+      "exchangeCode": "NASDAQ"
+    }
+  ]
+}
